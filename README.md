@@ -15,6 +15,8 @@
 
 （4）更新人员职位
 
+（5）更新项目信息
+
 2 - 展示功能
 
 （1）展示周报
@@ -25,6 +27,8 @@
 
 （4）展示指定时间段的日报合集
 
+（5）展示外部立项/非立项任务统计表
+
 3 - 分析功能
 
 （1）展示工作量分布情况
@@ -32,6 +36,10 @@
 （2）以绩效协议形式展示全部工作目标
 
 （3）以绩效协议形式展示个人工作目标
+
+4 - 合成功能
+
+（1）合成外部立项/非立项任务统计表
 
 ### 1.2 本工程引用了如下工程
 （1）XMind文件接口工程 - [XMindInterface](https://github.com/IDS-zhangxr/XMind_interface_release)
@@ -66,4 +74,5 @@ root_path
 Script_update_staged_work
 Script_display_staged_work
 Script_analyze_staged_work
+Script_synthesize_staged_work
 ```
