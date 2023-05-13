@@ -1,0 +1,6 @@
+[submodule "XMind_interface_release"]
+	path = XMind_interface_release
+	url = https://github.com/IDS-zhangxr/XMind_interface_release
+[submodule "Network_disk_manager_release"]
+	path = Network_disk_manager_release
+	url = https://github.com/IDS-zhangxr/Network_disk_manager_release
